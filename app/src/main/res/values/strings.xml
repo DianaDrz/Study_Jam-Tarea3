@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Instrumentos-Musicales</string>
+    <string name="Descripcion_bateria">La batería es un conjunto de instrumentos musicales de percusión usado por muchas agrupaciones musicales.</string>
+    <string name="Descripcion_guitarra">Instrumento musical de cuerda formado por una caja hueca de madera de forma alargada con un leve estrechamiento en la parte media, un agujero circular en el centro y un brazo (mástil) a lo largo del cual se prolongan las cuerdas
+(generalmente seis) y en cuyo extremo se sitúan las clavijas, que permiten afinar el instrumento. </string>
+    <string name="Descripcion_guitarraelectrica">Una guitarra eléctrica es un instrumento musical armónico y melódico de seis cuerdas que utiliza el principio de inducción electromagnética para convertir las vibraciones de sus cuerdas de metal en señales eléctricas.</string>
+    <string name="Descripcion_saxofon">Instrumento musical de viento de la familia del metal, formado por un tubo doblado de forma similar a una J, que se va ensanchando desde la boquilla (en el extremo superior) hasta el otro extremo (rematado con una amplia abertura), y a lo largo del cual hay una serie de válvulas que se abren y se cierran con los dedos de ambas manos para producir las diferentes notas.</string>
+    <string name="Descripcion_arpa">El arpa es un instrumento de cuerda pulsada formado por un marco resonante y una serie variable de cuerdas tensadas entre la sección inferior y la superior. El sonido se obtiene al tocar las cuerdas con los dedos.</string>
+    <string name="Descripcion_pandereta">Instrumento musical de percusion formado por un marco reigido redondo cubierto por parche de cuero fino.</string>
+    <string name="Descripcion_piano">El piano (palabra que en italiano significa «suave», y en este caso es apócope del término original, «pianoforte», que hacía referencia a sus matices suave y fuerte) es un instrumento musical armónico clasificado como instrumento de teclado y de cuerdas percutidas por el sistema de clasificación tradicional, y según la clasificación de Hornbostel-Sachs es un cordófono simple</string>
+    <string name="Descripcion_violin">Instrunmento musical de cuerda de unos 60cm de largo (mastil incluido) formado por una caja de madera.</string>
+    <string name="Descripcion_teclado">Un instrumento de teclado es un tipo de instrumento musical que usa un teclado para interpretarlo. Está compuesto por un conjunto de teclas adyacentes, negras y blancas.</string>
+</resources>
